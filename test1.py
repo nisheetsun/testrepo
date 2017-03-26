@@ -1,3 +1,3 @@
 a=12
 b='chkj'
-print(a,b)
+print(a,b,'agshsjdj')
